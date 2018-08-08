@@ -1,0 +1,1184 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/215023375/ontologies/2018/4/untitled-ontology-8"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/215023375/ontologies/2018/4/untitled-ontology-8">
+    <Prefix name="" IRI="http://www.semanticweb.org/215023375/ontologies/2018/4/untitled-ontology-8#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#Orature"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#IziMbadada"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Gauteng"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Storytelling"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#AmaShoba"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Inyanga"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#City"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Urban"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#The_Royal_Reed_Dance"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isDevelopedBy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Isivivane"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#StickFighting"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Africa"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#speak"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sipritual_Practicioners"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Lobola"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Amambatha"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Warriors"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Mozambique"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#UMbondo"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#UMaskandi"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#UMabo"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#umQhogoyo"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#wear"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Shembe_Festival"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Malawi"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Province"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Inkanyamba"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Male_Bodywear"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Umchwayo"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Rural"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BantuPeople"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Injoba"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#KwaZulu-Natal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ZuluCombat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Song"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#population"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Ilikhomba"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Umcedo"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#alsoFound"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Engaged_Female_Clothing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Dance"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#is"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Supreme_Beings"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Ukusina"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#East_Africa"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Continent"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Swaziland"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#commonlyFound"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bull_Dance"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Tokoloshe"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Dance_of_the_small_child"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MajorCelebrations"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Umbhekuzo"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isIn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Umghebhulo"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Zimbabwe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LivingConditions"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#liveIn"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Male_Headwear"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#South_Africa"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#King_Shaka&apos;s_Day"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#engangeIn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Pietermaritzburg"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Region"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Male_Footwear"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#celebrate"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#originateFrom"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Male_Clothing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#battleaxe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Spinster_Female_Clothing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Beliefs"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Indavuzwana"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#found"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Language"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#iBheshu"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isA"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ZuluPeople"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isMadeUpOf"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Botswana"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ZuluCommunity"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Durban"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#UNkulunkulu"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Umqhele"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Poetry"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isWeapon"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Isidwaba"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#believeIn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#umTshiza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Country"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Clothing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Location"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NguniPeople"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Sangoma"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#IsiZulu"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Lesotho"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Hunting_Dance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Married_Female_Clothing"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#locatedIn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Isicathamiya"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ZuluBattle"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ZuluCulturalHeritage"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#isiPhapha"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RecreationalActivites"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Superstitions"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Weddings"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#perform"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Female_Clothing"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isBattle"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#IsaGila"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#People"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Izibizo"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#BantuPeople"/>
+        <Class IRI="#People"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#City"/>
+        <Class IRI="#Location"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Continent"/>
+        <Class IRI="#Location"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Country"/>
+        <Class IRI="#Location"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dance"/>
+        <Class IRI="#RecreationalActivites"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Engaged_Female_Clothing"/>
+        <Class IRI="#Female_Clothing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Female_Clothing"/>
+        <Class IRI="#Clothing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Male_Bodywear"/>
+        <Class IRI="#Male_Clothing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Male_Clothing"/>
+        <Class IRI="#Clothing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Male_Footwear"/>
+        <Class IRI="#Male_Clothing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Male_Headwear"/>
+        <Class IRI="#Male_Clothing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Married_Female_Clothing"/>
+        <Class IRI="#Female_Clothing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NguniPeople"/>
+        <Class IRI="#BantuPeople"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Orature"/>
+        <Class IRI="#RecreationalActivites"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Poetry"/>
+        <Class IRI="#Orature"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Province"/>
+        <Class IRI="#Location"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Region"/>
+        <Class IRI="#Location"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Song"/>
+        <Class IRI="#RecreationalActivites"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Spinster_Female_Clothing"/>
+        <Class IRI="#Female_Clothing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#StickFighting"/>
+        <Class IRI="#Warriors"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Storytelling"/>
+        <Class IRI="#Orature"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Superstitions"/>
+        <Class IRI="#Beliefs"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Supreme_Beings"/>
+        <Class IRI="#Beliefs"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Weddings"/>
+        <Class IRI="#MajorCelebrations"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ZuluBattle"/>
+        <Class IRI="#Warriors"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ZuluCombat"/>
+        <Class IRI="#Warriors"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#Continent"/>
+        <NamedIndividual IRI="#Africa"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Male_Bodywear"/>
+        <NamedIndividual IRI="#AmaShoba"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Male_Bodywear"/>
+        <NamedIndividual IRI="#Amambatha"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Country"/>
+        <NamedIndividual IRI="#Botswana"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Dance"/>
+        <NamedIndividual IRI="#Bull_Dance"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Dance"/>
+        <NamedIndividual IRI="#Dance_of_the_small_child"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#City"/>
+        <NamedIndividual IRI="#Durban"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Region"/>
+        <NamedIndividual IRI="#East_Africa"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Province"/>
+        <NamedIndividual IRI="#Gauteng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Dance"/>
+        <NamedIndividual IRI="#Hunting_Dance"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Dance"/>
+        <NamedIndividual IRI="#Ilikhomba"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Male_Footwear"/>
+        <NamedIndividual IRI="#Indavuzwana"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Male_Bodywear"/>
+        <NamedIndividual IRI="#Injoba"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Superstitions"/>
+        <NamedIndividual IRI="#Inkanyamba"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Sipritual_Practicioners"/>
+        <NamedIndividual IRI="#Inyanga"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ZuluCombat"/>
+        <NamedIndividual IRI="#IsaGila"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Language"/>
+        <NamedIndividual IRI="#IsiZulu"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Song"/>
+        <NamedIndividual IRI="#Isicathamiya"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Female_Clothing"/>
+        <NamedIndividual IRI="#Isidwaba"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Superstitions"/>
+        <NamedIndividual IRI="#Isivivane"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Male_Footwear"/>
+        <NamedIndividual IRI="#IziMbadada"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Weddings"/>
+        <NamedIndividual IRI="#Izibizo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Province"/>
+        <NamedIndividual IRI="#KwaZulu-Natal"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Country"/>
+        <NamedIndividual IRI="#Lesotho"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Weddings"/>
+        <NamedIndividual IRI="#Lobola"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Country"/>
+        <NamedIndividual IRI="#Malawi"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Country"/>
+        <NamedIndividual IRI="#Mozambique"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#City"/>
+        <NamedIndividual IRI="#Pietermaritzburg"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#LivingConditions"/>
+        <NamedIndividual IRI="#Rural"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Sipritual_Practicioners"/>
+        <NamedIndividual IRI="#Sangoma"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MajorCelebrations"/>
+        <NamedIndividual IRI="#Shembe_Festival"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Country"/>
+        <NamedIndividual IRI="#South_Africa"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Country"/>
+        <NamedIndividual IRI="#Swaziland"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MajorCelebrations"/>
+        <NamedIndividual IRI="#The_Royal_Reed_Dance"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Superstitions"/>
+        <NamedIndividual IRI="#Tokoloshe"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Weddings"/>
+        <NamedIndividual IRI="#UMabo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Song"/>
+        <NamedIndividual IRI="#UMaskandi"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Weddings"/>
+        <NamedIndividual IRI="#UMbondo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Supreme_Beings"/>
+        <NamedIndividual IRI="#UNkulunkulu"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Dance"/>
+        <NamedIndividual IRI="#Ukusina"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Dance"/>
+        <NamedIndividual IRI="#Umbhekuzo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Male_Bodywear"/>
+        <NamedIndividual IRI="#Umcedo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Dance"/>
+        <NamedIndividual IRI="#Umchwayo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Dance"/>
+        <NamedIndividual IRI="#Umghebhulo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Male_Headwear"/>
+        <NamedIndividual IRI="#Umqhele"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#LivingConditions"/>
+        <NamedIndividual IRI="#Urban"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Country"/>
+        <NamedIndividual IRI="#Zimbabwe"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NguniPeople"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Male_Bodywear"/>
+        <NamedIndividual IRI="#iBheshu"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Dance"/>
+        <NamedIndividual IRI="#umQhogoyo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ZuluCombat"/>
+        <NamedIndividual IRI="#umTshiza"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MajorCelebrations"/>
+        <NamedIndividual IRI="#King_Shaka&apos;s_Day"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is"/>
+        <NamedIndividual IRI="#Durban"/>
+        <NamedIndividual IRI="#Urban"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isIn"/>
+        <NamedIndividual IRI="#Durban"/>
+        <NamedIndividual IRI="#KwaZulu-Natal"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isIn"/>
+        <NamedIndividual IRI="#East_Africa"/>
+        <NamedIndividual IRI="#Africa"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has"/>
+        <NamedIndividual IRI="#Gauteng"/>
+        <NamedIndividual IRI="#Urban"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isIn"/>
+        <NamedIndividual IRI="#Gauteng"/>
+        <NamedIndividual IRI="#South_Africa"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has"/>
+        <NamedIndividual IRI="#KwaZulu-Natal"/>
+        <NamedIndividual IRI="#Rural"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has"/>
+        <NamedIndividual IRI="#KwaZulu-Natal"/>
+        <NamedIndividual IRI="#Urban"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isIn"/>
+        <NamedIndividual IRI="#KwaZulu-Natal"/>
+        <NamedIndividual IRI="#South_Africa"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is"/>
+        <NamedIndividual IRI="#Pietermaritzburg"/>
+        <NamedIndividual IRI="#Urban"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isIn"/>
+        <NamedIndividual IRI="#Pietermaritzburg"/>
+        <NamedIndividual IRI="#KwaZulu-Natal"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isIn"/>
+        <NamedIndividual IRI="#South_Africa"/>
+        <NamedIndividual IRI="#Africa"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#alsoFound"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Botswana"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#alsoFound"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Lesotho"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#alsoFound"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Malawi"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#alsoFound"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Mozambique"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#alsoFound"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Swaziland"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#alsoFound"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Zimbabwe"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#believeIn"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Inkanyamba"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#believeIn"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Isivivane"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#believeIn"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Tokoloshe"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#believeIn"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#UNkulunkulu"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#celebrate"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Izibizo"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#celebrate"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Lobola"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#celebrate"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Shembe_Festival"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#celebrate"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#The_Royal_Reed_Dance"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#celebrate"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#UMabo"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#celebrate"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#UMbondo"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#celebrate"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#King_Shaka&apos;s_Day"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#commonlyFound"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#South_Africa"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#perform"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Bull_Dance"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#perform"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Dance_of_the_small_child"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#perform"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Hunting_Dance"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#perform"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Ilikhomba"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#perform"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Isicathamiya"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#perform"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#UMaskandi"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#perform"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Ukusina"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#perform"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Umbhekuzo"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#perform"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Umchwayo"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#perform"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Umghebhulo"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#perform"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#umQhogoyo"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#speak"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#IsiZulu"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wear"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#AmaShoba"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wear"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Amambatha"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wear"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Indavuzwana"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wear"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Injoba"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wear"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Isidwaba"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wear"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#IziMbadada"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wear"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Umcedo"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wear"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#Umqhele"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#wear"/>
+        <NamedIndividual IRI="#ZuluPeople"/>
+        <NamedIndividual IRI="#iBheshu"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isWeapon"/>
+        <NamedIndividual IRI="#battleaxe"/>
+        <NamedIndividual IRI="#battleaxe"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isWeapon"/>
+        <NamedIndividual IRI="#isiPhapha"/>
+        <NamedIndividual IRI="#IsaGila"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isWeapon"/>
+        <NamedIndividual IRI="#isiPhapha"/>
+        <NamedIndividual IRI="#isiPhapha"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isWeapon"/>
+        <NamedIndividual IRI="#isiPhapha"/>
+        <NamedIndividual IRI="#umTshiza"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isWeapon"/>
+        <NamedIndividual IRI="#umTshiza"/>
+        <NamedIndividual IRI="#umTshiza"/>
+    </ObjectPropertyAssertion>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#alsoFound"/>
+        <ObjectProperty IRI="#found"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#commonlyFound"/>
+        <ObjectProperty IRI="#found"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#isBattle"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#isWeapon"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#alsoFound"/>
+        <Class IRI="#People"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#believeIn"/>
+        <Class IRI="#People"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#celebrate"/>
+        <Class IRI="#BantuPeople"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#celebrate"/>
+        <Class IRI="#NguniPeople"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#celebrate"/>
+        <Class IRI="#People"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#commonlyFound"/>
+        <Class IRI="#People"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#engangeIn"/>
+        <Class IRI="#BantuPeople"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#engangeIn"/>
+        <Class IRI="#NguniPeople"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#engangeIn"/>
+        <Class IRI="#People"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#found"/>
+        <Class IRI="#BantuPeople"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#found"/>
+        <Class IRI="#NguniPeople"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#found"/>
+        <Class IRI="#People"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has"/>
+        <Class IRI="#Province"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isA"/>
+        <Class IRI="#City"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isA"/>
+        <Class IRI="#Country"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isA"/>
+        <Class IRI="#Province"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isA"/>
+        <Class IRI="#Region"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isBattle"/>
+        <Class IRI="#Warriors"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isDevelopedBy"/>
+        <Class IRI="#ZuluCulturalHeritage"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isIn"/>
+        <Class IRI="#City"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isIn"/>
+        <Class IRI="#Province"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isMadeUpOf"/>
+        <Class IRI="#ZuluCommunity"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isWeapon"/>
+        <Class IRI="#ZuluCombat"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#liveIn"/>
+        <Class IRI="#People"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#locatedIn"/>
+        <Class IRI="#City"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#originateFrom"/>
+        <Class IRI="#BantuPeople"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#originateFrom"/>
+        <Class IRI="#NguniPeople"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#originateFrom"/>
+        <Class IRI="#People"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#perform"/>
+        <Class IRI="#People"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#speak"/>
+        <Class IRI="#BantuPeople"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#speak"/>
+        <Class IRI="#NguniPeople"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#speak"/>
+        <Class IRI="#People"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#alsoFound"/>
+        <Class IRI="#Location"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#believeIn"/>
+        <Class IRI="#Beliefs"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#celebrate"/>
+        <Class IRI="#MajorCelebrations"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#commonlyFound"/>
+        <Class IRI="#Location"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#engangeIn"/>
+        <Class IRI="#RecreationalActivites"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#found"/>
+        <Class IRI="#Location"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has"/>
+        <Class IRI="#LivingConditions"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isA"/>
+        <Class IRI="#Location"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isBattle"/>
+        <Class IRI="#StickFighting"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isBattle"/>
+        <Class IRI="#ZuluBattle"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isBattle"/>
+        <Class IRI="#ZuluCombat"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isDevelopedBy"/>
+        <Class IRI="#ZuluCommunity"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isIn"/>
+        <Class IRI="#Country"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isIn"/>
+        <Class IRI="#Province"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isMadeUpOf"/>
+        <Class IRI="#People"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#liveIn"/>
+        <Class IRI="#Location"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#locatedIn"/>
+        <Class IRI="#Country"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#originateFrom"/>
+        <Class IRI="#Location"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#perform"/>
+        <Class IRI="#RecreationalActivites"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#speak"/>
+        <Class IRI="#Language"/>
+    </ObjectPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#population"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#alsoFound</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Less common locations Zulu people can be found.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#commonlyFound</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Locations in which Zulu people are commonly found.</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+
